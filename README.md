@@ -1,6 +1,6 @@
 ## Try it
 
-[https://my-json-server.typicode.com/typicode/demo](https://my-json-server.typicode.com/typicode/demo)
+[https://my-json-server.typicode.com/Freebird2014/vtpass_mock](https://my-json-server.typicode.com/Freebird2014/vtpass_mock)
 
 ## Use your own data
 
